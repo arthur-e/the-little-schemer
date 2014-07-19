@@ -204,7 +204,7 @@
 
 ; Example of member*
 ;
-(member
+(member*
   'chips
   '((potato) (chips ((with) fish) (chips))))    ; #t
 
